@@ -35,7 +35,7 @@ For Open.HD use, USB shall be routed through slipring from Ground Pi housed in l
 * Various wood screws
 * 4x 608 Bearing
 * 4x M3 60mm metal stand-offs 
-* 1x 1/4-20 UNC nut for tripod mount
+* 1x 1/4-20 UNC nut for tripod mount (This is little complicated in Europe. www.tme.eu sells them. Or you can salvage one from old camera)
 * 1x Strong 46mm x 60mm x 1.6mm plate for tripod mount. Can be old PCB, Aluminum, FR4, G10, CF etc... Needs to be hand cut and drilled unless you have CNC 
 
 

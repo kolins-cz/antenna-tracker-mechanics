@@ -1,5 +1,10 @@
 # antenna-tracker-mechanics
 ##  Antenna tracker mechanics with stepper motors made specifically for Open.HD project
+
+![Image](photos/tracker.png)
+![Image](photos/IMG_0265.JPG)
+
+
 This is supposed to be ultimate antenna tracker for heavy antennas superior to any existing and future RC-servo based design.
 
 Stepper motors do not jitter / oscillate when subjected to static torque. This is common problem for RC-servo based trackers especially on TILT axis. This tracker will hold position without any movement. With proper control software, movement can be really smooth.
@@ -49,3 +54,5 @@ A1: Probably by pull request via github with modified .step file. I will downloa
 A2: Code support for this. There are nice antenna tracker firmware projects around but none has support for stepper drivers. Most notorious are probably Ghettostaion, uu360gts, zs6buj tracker, Ardutracker and so on. Pick one
 ### Q: Licence?
 A: GNU GPL v2.0
+
+(c) Miroslav Kolinsky 2019 https://www.kolins.cz

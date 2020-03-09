@@ -36,16 +36,16 @@ For Open.HD use, USB shall be routed through slipring from Ground Pi housed in l
 
 
 ##  FAQ
-###Q: Can I build one?
+### Q: Can I build one?
 A: Sure you can! Download .step file take a look. It is not finished and things may change. 
-###Q: Where are the .stl files?
+### Q: Where are the .stl files?
 A: There will be none until project is finished. Right now, you will need some CAD knowledge
-###Q: I can’t source component X. What can I do?
+### Q: I can’t source component X. What can I do?
 A: Download .step file and make necessary changes in your favorite CAD software (something like Fusion 360)
-###Q: Is there ready firmware solution to work with this?
+### Q: Is there ready firmware solution to work with this?
 A: No. For tests I use old RAMPS board with Marlin firmware inside. It can accept G code and make the tracker moving. Config.h for marlin is available for download
-###Q: How can I contribute?
+### Q: How can I contribute?
 A1: Probably by pull request via github with modified .step file. I will download one and take a look and merge changes.
 A2: Code support for this. There are nice antenna tracker firmware projects around but none has support for stepper drivers. Most notorious are probably Ghettostaion, uu360gts, zs6buj tracker, Ardutracker and so on. Pick one
-###Q: Licence?
+### Q: Licence?
 A: GNU GPL v2.0

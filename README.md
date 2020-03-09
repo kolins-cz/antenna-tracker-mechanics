@@ -9,18 +9,18 @@ For Open.HD use, USB shall be routed through slipring from Ground Pi housed in l
 
 
 ##  Done
-..* Tilt Axis Assembly
-..* Movement tests with control board for 3D printers
+* Tilt Axis Assembly
+* Movement tests with control board for 3D printers
 
 ##  Work in progress but tested
-..* Pan Axis Assembly
+* Pan Axis Assembly
 
 ##  Work in progress but untested
-..* Tripod mounting assembly
-..* Lower part for housing electronics (this will probably change several times)
+* Tripod mounting assembly
+* Lower part for housing electronics (this will probably change several times)
 
 ##  Future
-..* Software / Firmware support
+* Software / Firmware support
 
 ##  Components
 * 3D printed parts, easy

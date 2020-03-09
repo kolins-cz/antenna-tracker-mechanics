@@ -51,8 +51,8 @@ A: Download .step file and make necessary changes in your favorite CAD software 
 A: No. For tests I use old RAMPS board with Marlin firmware inside. It can accept G code and make the tracker moving. Config.h for marlin is available for download
 ### Q: How can I contribute?
 A1: Probably by pull request via github with modified .step file. I will download one and take a look and merge changes.
-A2: Code support for this. There are nice antenna tracker firmware projects around but none has support for stepper drivers. Most notorious are probably Ghettostaion, uu360gts, zs6buj tracker, Ardutracker and so on. Pick one
+A2: Code support for this. There are nice antenna tracker firmware projects around but none has support for stepper drivers. Most notorious are probably Ghettostaion, u360gts, zs6buj tracker, Ardutracker and so on. Pick one
 ### Q: Licence?
 A: GNU GPL v2.0
 
-(c) Miroslav Kolinsky 2019 https://www.kolins.cz
+(c) Miroslav Kolinsky 2020 https://www.kolins.cz
